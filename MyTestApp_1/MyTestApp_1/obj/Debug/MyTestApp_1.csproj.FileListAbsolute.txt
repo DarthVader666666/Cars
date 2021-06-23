@@ -1,0 +1,16 @@
+D:\WPF\MyTestApp_1\MyTestApp_1\bin\Debug\MyTestApp_1.exe.config
+D:\WPF\MyTestApp_1\MyTestApp_1\bin\Debug\MyTestApp_1.exe
+D:\WPF\MyTestApp_1\MyTestApp_1\bin\Debug\MyTestApp_1.pdb
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MainWindow.g.cs
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\App.g.cs
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MyTestApp_1_MarkupCompile.cache
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MyTestApp_1_MarkupCompile.lref
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MainWindow.baml
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MyTestApp_1.g.resources
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MyTestApp_1.Properties.Resources.resources
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MyTestApp_1.csproj.GenerateResource.Cache
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MyTestApp_1.exe
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MyTestApp_1.pdb
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\MyTestApp_1.csprojResolveAssemblyReference.cache
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\AddItemWindow.g.cs
+D:\WPF\MyTestApp_1\MyTestApp_1\obj\Debug\AddItemWindow.baml
